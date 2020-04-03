@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supermercadolab3", "Supermercadolab3.csproj", "{B40CE5C9-59AB-498A-86A4-243C095C9D59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B40CE5C9-59AB-498A-86A4-243C095C9D59}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{B40CE5C9-59AB-498A-86A4-243C095C9D59}.Debug|anycpu.Build.0 = Debug|anycpu
+		{B40CE5C9-59AB-498A-86A4-243C095C9D59}.Release|anycpu.ActiveCfg = Release|anycpu
+		{B40CE5C9-59AB-498A-86A4-243C095C9D59}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
