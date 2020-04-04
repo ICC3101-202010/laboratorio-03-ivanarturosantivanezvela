@@ -5,7 +5,7 @@ namespace Supermercadolab3
     {
 
 
-        private string horario = null;
+        private string Horario = null;
 
         private int Codigo_cajero;
 
@@ -39,7 +39,7 @@ namespace Supermercadolab3
         public string Gethorario()
         {
 
-            return this.horario;
+            return this.Horario;
 
         }
 

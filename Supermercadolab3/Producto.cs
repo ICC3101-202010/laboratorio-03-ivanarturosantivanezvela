@@ -24,6 +24,31 @@ namespace Supermercadolab3
 
         }
 
+        public string Getnombreproducto()
+        {
+
+            return Nombreproducto;
+        }
+
+        public bool Comprar()
+        {
+            if (Stock > 0)
+            {
+
+                Stock--;
+                return true;
+
+            }
+            else
+            {
+                return false;
+            }
+
+
+        }
+
+
+
 
 
 
